@@ -1,0 +1,28 @@
+name: sahkovene
+favicon: null
+layout_spectrum: 0.8018258216325194
+typography_spectrum: 0.7837459906004369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.45309819048270583
+  lightness: 0.6140017216093838
+  saturation: 0.7193302758969367
+  rhythmicContrast: 0.48525677854195237
+purpose: []
