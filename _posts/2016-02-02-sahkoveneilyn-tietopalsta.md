@@ -1,27 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: 'Kaikki minkä halusit tietää sähköveneistä mutta et uskaltanut kysyä!'
-datePublished: '2016-02-03T21:10:18.188Z'
-dateModified: '2016-02-03T21:10:12.888Z'
-title: Sähköveneilyn tietopalsta
-author: []
+datePublished: '2016-08-18T20:29:53.212Z'
 sourcePath: _posts/2016-02-02-sahkoveneilyn-tietopalsta.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-18T20:29:51.213Z'
+title: ''
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: >-
+  Tänne avataan pian uusi sähköveneilyn tietolaari. Ideoita ja ajatuksia
+  sähköveneistä läheltä ja etenkin kaukaa. Pysy kuulolla!
+inLanguage: null
+inNav: false
+via: {}
+starred: true
 url: sahkoveneilyn-tietopalsta/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36ea4342-4f25-4179-9850-8aab9d092bed.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a5f4b8c1f3b9da633c778875c205819776a7ba.jpg)
 
 Tänne avataan pian uusi sähköveneilyn tietolaari. Ideoita ja ajatuksia sähköveneistä läheltä ja etenkin kaukaa. Pysy kuulolla!
