@@ -4,14 +4,14 @@
         <description><![CDATA[Nauti veneilystä ilman polttoaineen käryä]]></description>
         <link>https://thegrid.ai/sahkovene/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 21:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 20:29:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sahkovene/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sähköveneilyn tietopalsta]]></title>
-            <description><![CDATA[<article><h1>Sähköveneilyn tietopalsta</h1><p>Tänne avataan pian uusi sähköveneilyn tietolaari. Ideoita ja ajatuksia sähköveneistä läheltä ja etenkin kaukaa. Pysy kuulolla!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ffe58b2c1175e50480cec0bad5689429a1cb872.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5a5f4b8c1f3b9da633c778875c205819776a7ba.jpg">]]></description>
             <link>https://thegrid.ai/sahkovene/sahkoveneilyn-tietopalsta/index.html</link>
             <guid isPermaLink="false">2af203c9-e2b8-498f-bd72-bf53207c1174</guid>
-            <pubDate>Wed, 03 Feb 2016 21:10:18 GMT</pubDate>
+            <pubDate>Thu, 18 Aug 2016 20:29:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/sahkovene/52661ba7-a685-4276-844e-c2a4ff60168a/index.html</link>
             <guid isPermaLink="false">52661ba7-a685-4276-844e-c2a4ff60168a</guid>
             <pubDate>Wed, 03 Feb 2016 20:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77438dc-d97e-4002-9a27-e937b247ea18.jpg">]]></description>
+            <link>https://thegrid.ai/sahkovene/4f7b86a6-e2e0-414a-8f73-de8da5fd99da/index.html</link>
+            <guid isPermaLink="false">4f7b86a6-e2e0-414a-8f73-de8da5fd99da</guid>
+            <pubDate>Wed, 03 Feb 2016 20:59:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/sahkovene/a2516c39-3c66-49fe-9d36-a3f2f7926bdd/index.html</link>
             <guid isPermaLink="false">a2516c39-3c66-49fe-9d36-a3f2f7926bdd</guid>
             <pubDate>Wed, 03 Feb 2016 20:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77438dc-d97e-4002-9a27-e937b247ea18.jpg">]]></description>
-            <link>https://thegrid.ai/sahkovene/4f7b86a6-e2e0-414a-8f73-de8da5fd99da/index.html</link>
-            <guid isPermaLink="false">4f7b86a6-e2e0-414a-8f73-de8da5fd99da</guid>
-            <pubDate>Wed, 03 Feb 2016 20:59:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
